@@ -1,0 +1,1 @@
+This section contains the code for both the Arduino microcontroller and the Unity project, which together form the core components of our custom VR input device system.
