@@ -1,15 +1,4 @@
-# Physical Computing SS24 - Group 8
-
-## Who we are
-
-**Robin Erb:**
-"I am in the 6. Semester of Computer Science. Furthermore, I am currently employed as a student researcher at the HCI department, where I started working on the spatial mouse."
-
-**Cedric Wiese:**
-"I am in the 7. Semester of Computer Science. I am currently also employed as a student assistant at the HCI department, where I assist in the Software Project."
-
-
-## Topic - Spatial Mouse:
+## Spatial Mouse:
 
 The spatial mouse is a clever connection between a computer mouse and a VR controller. 
 
